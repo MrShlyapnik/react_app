@@ -6,7 +6,6 @@ class Info extends React.Component{
       <div>
           <h2>Погодное приложение</h2>
           <p>Узнайте погоду в вашем городе!  </p>
-      
       </div>
     );
   }
